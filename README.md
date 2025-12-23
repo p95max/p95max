@@ -1,7 +1,3 @@
-#  About Me:
-I am a motivated and fast-learning IT specialist with a strong background in backend development, automation, and digitalization. My experience includes developing web applications with Python and Django, integrating APIs, and working with SQL databases. I am passionate about implementing modern IT solutions, optimizing processes, and bridging the gap between technology and real-world applications. 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/p95max) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.petrykin@gmx.de) 
 
