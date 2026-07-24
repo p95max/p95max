@@ -4,8 +4,6 @@
 
 I build production-oriented backend services, REST APIs, asynchronous workflows, and third-party integrations. My focus is maintainable Python code, predictable deployment, testing, and practical operations.
 
-Based in Germany.
-
 ## Featured Projects
 
 | Project | Description | Stack |
@@ -28,6 +26,6 @@ Based in Germany.
 
 ## Links
 
-- [Portfolio](https://p95max.dev)
+- [Web-Portfolio](https://p95max.dev)
 - [LinkedIn](https://linkedin.com/in/p95max)
 - [Email](mailto:p95maxde@gmail.com)
