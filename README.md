@@ -2,8 +2,7 @@
 
 **Python Backend Developer — Django · FastAPI · PostgreSQL**
 
-I build production-oriented backend services, REST APIs, asynchronous workflows, and third-party integrations. 
-My focus is maintainable Python code, predictable deployment, testing, and practical operations.
+I build production-oriented backend services, APIs, and integrations. I am adaptable across development, deployment optimization, and production operations, with a focus on maintainability and reliability.
 
 ## Featured Projects
 
