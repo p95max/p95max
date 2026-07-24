@@ -1,12 +1,33 @@
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/p95max) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:p95maxde@gmail.com) 
+# Maksym Petrykin
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+**Python Backend Developer — Django · FastAPI · PostgreSQL**
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I build production-oriented backend services, REST APIs, asynchronous workflows, and third-party integrations. My focus is maintainable Python code, predictable deployment, testing, and practical operations.
 
+Based in Germany.
 
----
-[![](https://visitcount.itsvg.in/api?id=p95max&icon=0&color=0)](https://visitcount.itsvg.in)
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Argus](https://github.com/p95max/argus) | Commissioned internal production service for processing marketplace emails, managing leads, Telegram operations, health checks, and automated VPS workflows. | Django, PostgreSQL, Gmail API, Telegram Bot API, Nginx, systemd, Pytest |
+| [DocsFlow](https://github.com/p95max/docflow_api) | Secure document-management service with asynchronous processing, local OCR, structured AI extraction, RAG search, calendar events, reminders, audit logs, and encrypted backups. | FastAPI, SQLAlchemy, PostgreSQL, pgvector, Celery, Redis, OpenAI, Docker |
+| [InboxSignal](https://github.com/p95max/InboxSignal) | Message-triage backend that converts Gmail and Telegram streams into prioritized events, alerts, and scheduled digests. | Django, PostgreSQL, Redis, Celery, Gmail API, Telegram Bot API, OpenAI |
+| [DealerFinder](https://github.com/p95max/dealerfinder) | Cache-first car-dealer search service with external API quotas, throttling, distributed locks, and asynchronous AI enrichment. | Django, PostgreSQL, Redis, Celery, Google Places API, Docker |
+| [Portfolio SPA](https://github.com/p95max/MyPortfolioSPA) | Full-stack portfolio platform with project management, REST API, React frontend, contact workflow, CI, and production deployment. | Django REST Framework, React, TypeScript, PostgreSQL, Docker |
+| [Azure IaC Demo](https://github.com/p95max/iac-demo-vm) | Infrastructure-as-Code deployment of an OIDC-protected application stack on Azure. | Terraform, Ansible, Docker, Keycloak, OAuth2 Proxy, Nginx |
+
+## Core Stack
+
+- **Backend:** Python, Django, Django REST Framework, FastAPI
+- **Data:** PostgreSQL, SQLAlchemy, Alembic, Redis, pgvector
+- **Async and integrations:** Celery, Gmail API, Google APIs, Telegram Bot API, OpenAI API
+- **Infrastructure:** Docker Compose, Nginx, Gunicorn, systemd, Terraform, Ansible
+- **Quality:** Pytest, Ruff, GitHub Actions, CodeQL, Codecov
+- **Frontend:** Django Templates, Bootstrap, basic React and TypeScript
+
+## Links
+
+- [Portfolio](https://p95max.dev)
+- [LinkedIn](https://linkedin.com/in/p95max)
+- [Email](mailto:p95maxde@gmail.com)
