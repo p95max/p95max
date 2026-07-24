@@ -24,9 +24,3 @@ My focus is maintainable Python code, predictable deployment, testing, and pract
 - **Infrastructure:** Docker Compose, Nginx, Gunicorn, systemd, Terraform, Ansible
 - **Quality:** Pytest, Ruff, GitHub Actions, CodeQL, Codecov
 - **Frontend:** Django Templates, Bootstrap, basic React and TypeScript
-
-## Links
-
-- [Web-Portfolio](https://p95max.dev)
-- [LinkedIn](https://linkedin.com/in/p95max)
-- [Email](mailto:p95maxde@gmail.com)
