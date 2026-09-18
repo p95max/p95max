@@ -4,15 +4,6 @@
 
 I build production-oriented backend services, APIs, and integrations. I am adaptable across development, deployment optimization, and production operations, with a focus on maintainability and reliability.
 
-## Featured Projects
-
-| Project                                                   | Description                                                                                                                                                                                                     | Stack                                                                       |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [JobApply](https://github.com/p95max/jobapply)            | Production-oriented job application tracker with Google OAuth, Gmail synchronization and automatic response classification, per-user data isolation, background processing, and automated Google Drive backups. | Django, PostgreSQL, Gmail API, Google Drive API, OAuth 2.0, systemd, Pytest |
-| [AI Reader](https://github.com/p95max/AI_Reader) | AI-powered PDF-to-audio service with background processing, cost estimates, and a web player. | Python, FastAPI, PostgreSQL, Redis, Celery, MinIO, Docker, OpenAI TTS |
-| [InboxSignal](https://github.com/p95max/InboxSignal)      | Message-triage backend that converts Gmail and Telegram streams into prioritized events, alerts, and scheduled digests.                                                                                         | Django, PostgreSQL, Redis, Celery, Gmail API, Telegram Bot API, OpenAI      |
-| [DealerFinder](https://github.com/p95max/dealerfinder)    | Cache-first car-dealer search service with external API quotas, throttling, distributed locks, and asynchronous AI enrichment.                                                                                  | Django, PostgreSQL, Redis, Celery, Google Places API, Docker                |
-| [Azure IaC Demo](https://github.com/p95max/iac-demo-vm)   | Infrastructure-as-Code deployment of an OIDC-protected application stack on Azure.                                                                                                                              | Terraform, Ansible, Docker, Keycloak, OAuth2 Proxy, Nginx                   |
 
 ## Core Stack
 
